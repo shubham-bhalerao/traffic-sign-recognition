@@ -1,5 +1,5 @@
 # Traffic-Sign-Detection
-https://traffic-sign-recognition.herokuapp.com/
+https://trafficsign-recognition.herokuapp.com/
 
 #### Accuracy: around 94%
 
